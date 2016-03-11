@@ -22,7 +22,8 @@ but backtracked from the 17th lesson onwards.
 
 ## Quickstart
 
-```npm install
+```
+npm install
 npm start 
 ```
 
